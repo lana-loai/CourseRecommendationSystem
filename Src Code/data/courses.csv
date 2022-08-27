@@ -1,0 +1,112 @@
+crs_code,crs_credit,crs_tag,crs_level,crs_2y,dept_id,crs_name
+CIS101,3,IT,1,4,2,Introduction to Information Systems
+CIS214,3,UI/UX design,2,4,2,Visual Programming
+CIS227,3,UI/UX design,1,3,2,Human Computer Interaction
+CIS240,3,Software Engineering,1,3,2,Introduction to Software Engineering
+CIS241,3,Software Engineering,2,3,2,Software Documentation
+CIS260,3,Database,3,2,2,Database Systems
+CIS260L,1,Database,2,2,2,Database Systems Lab
+CIS265,3,Database,3,3,2,Database Management System
+CIS256,3,Data & File Structures,4,1,2,Files Structures
+CIS340,3,Software Engineering,3,3,2,Object Oriented Analysis & Design
+CIS340L,1,Software Engineering,3,3,2,Object Oriented Analysis & Design Lab
+CIS342,3,Software Engineering,3,3,2,System Analysis & Design
+CIS360,3,Database,4,2,2,Developing Database Applications
+CIS367,3,Database,3,3,2,Data Warehousing
+CIS370,3,Internet of Things,4,2,2,Intelligent Systems & Internet Of Things
+CIS380,3,Applications & New Technology,4,1,2,Information System Applications
+CIS382,3,Cloud Computing,4,1,2,Cloud Computing
+CIS431,3,Networks,3,4,2,Internet Services
+CIS433,3,Networks,4,3,2,Data & Communication Networks
+CIS440,3,Quality Assurance,3,3,2,Software Testing & Validation
+CIS464,3,Data Science,4,2,2,Information Retrieval Systems
+CIS467A,3,Data Science,4,2,2,Data Mining
+CIS467L,1,Data Science,5,3,2,Information Retrieval & Data Mining Lab
+CIS468,3,Data Science,5,2,2,Big Data Management
+CIS472,3,Artificial Intelligence,5,2,2,Applied Data Mining
+CIS480,3,Distributed Systems,5,3,2,Distributed Systems Applications
+CIS492,3,Applications & New Technology,5,2,2,Special Topics
+CIS497,3,Practical,5,1,2,Training Certificate
+CIS498,3,Practical,5,1,2,Practical Training
+CIS499,3,Project,5,1,2,Graduation Project
+CS111,3,Programming,1,5,1,Programming in a Selected Language
+CS111L,1,Programming,2,3,1,Programming in a Selected Language Lab
+CS130,3,System Fundementals,1,5,1,Operating Systems Fundamentals
+CS142,3,Logic,3,3,1,Discrete Structures
+CS210,3,Programming,2,3,1,Object-Oriented Programming
+CS210L,1,Programming,2,3,1,Object-Oriented Programming Lab
+CS220,3,Logic,2,3,1,Logic Design
+CS225,1,Logic,3,4,1,Computer Organization Lab
+CS250,3,Data & File Structures,4,2,1,Data Structures
+CS281,3,Multimedia,2,3,1,Multimedia Systems
+CS310,3,Programming,4,2,1,4 Programming
+CS331,3,System Fundementals,4,3,1,Operating Systems (2)
+CS332,3,Networks,3,3,1,Data Communications and Networks
+CS332L,1,Networks,3,3,1,Data Communications and Networks Lab
+CS342,3,Logic,3,3,1,Theroy of Computation
+CS351,3,Data & File Structures,4,3,1,Analysis and Design of Algorithms
+CS360,3,Networks,4,4,1,Wireless Networks
+CS367,3,Artificial Intelligence,4,3,1,Artifical Intelligence
+CS380,3,Graphics and Image Processing,3,2,1,Computer Graphics
+CS411,3,Applications & New Technology,5,3,1,Smart Phones Applications Development
+CS432,3,Logic,5,3,1,Computer Architecture
+CS470,3,Software Engineering,4,4,1,Expert Systems
+CS480,3,Graphics and Image Processing,4,3,1,Image Processing
+CS492,3,Applications & New Technology,5,4,1,Special Topics
+CS497,3,Practical,5,1,1,Training Certificate
+CS498,3,Practical,5,1,1,Practical Training
+CS499A,3,Project,5,1,1,Gradutaion Project A
+CS499B,3,Project,5,1,1,Gradutaion Project B
+BIT106,3,IT,1,5,3,Communication Skills for Information Technology
+BIT221,3,Business,3,2,3,Legal Issues in Information Technology
+BIT222,3,Business,3,3,3,Entrepnuership in IT
+BIT241,3,Business,NULL,NULL,3,Operations Research
+BIT250,3,Commerce,NULL,NULL,3,E-Commerce
+BIT270,3,Marketing,NULL,NULL,3,Digital Marketing
+BIT332,3,Resources,NULL,NULL,3,Resources Management
+BIT364,3,Management,NULL,NULL,3,Systems and Projects Management
+BIT370,3,Resources,NULL,NULL,3,Enterprise Resource Planning
+BIT381,3,Web Development,3,4,3,Web Applications Development (1)
+BIT382,3,Management,NULL,NULL,3,Knowledge Management
+BIT385,3,Applications & New Technologies,NULL,NULL,3,Data Visualization
+BIT386,3,Web Development,NULL,NULL,3,Web Technology
+BIT461,3,Quality Assurance,NULL,NULL,3,Quality Management & Control
+BIT480,3,Applications & New Technologies,NULL,NULL,3,Decision Support Systems
+BIT480L,1,Applications & New Technologies,NULL,NULL,3,Decision Support Systems Lab
+BIT481,3,Web Development,3,3,3,Web Applications Development (2)
+BIT483,3,Business,NULL,NULL,3,Business Intelligence
+BIT492,3,Applications & New Technologies,5,NULL,3,Special Topics
+BIT498,3,Practical,5,1,3,Practical Training
+BIT499,3,Project,5,1,3,Graduation Project
+CYS230,3,IT,1,2,4,Cyber Security Principles
+CYS232,3,Cryptography,1,3,4,Introduction to Cryptography
+CYS321,3,Networks,NULL,NULL,4,Network Operating Systems
+CYS331,3,Security,NULL,NULL,4,Risk Assessment and Management
+CYS332,3,Security,NULL,NULL,4,Security of Software Systems
+CYS333,3,Hacking,NULL,NULL,4,Ethical Hacking
+CYS333L,1,Hacking,NULL,NULL,4,Ethical Hacking Lab
+CYS334,3,Networks,NULL,NULL,4,Network Security
+CYS335,3,Internet of Things,NULL,NULL,4,Security of Internet of Things
+CYS370,3,Networks,NULL,NULL,4,Network Programming and Monitering
+CYS436,3,Distributed Systems,NULL,NULL,4,Distributed Computing Security
+CYS437,3,Privacy,NULL,NULL,4,Data Privacy and Confidentiality
+CYS438,3,Cloud Computing,NULL,NULL,4,Cloud Computing Security
+CYS440,3,Security,NULL,NULL,4,Information Security Prototcols
+CYS461,3,Security,NULL,NULL,4,Digital Forensics
+CYS462,3,Networks,NULL,NULL,4,Defense Networking Systems
+CYS492,3,Applications & New Technologies,5,NULL,4,Special Topics
+CYS498,3,Practical,5,NULL,4,Practical Training
+CYS499,3,Project,5,NULL,4,Graduation Project
+MATH101,3,Mathimatics,2,2,10,Calculus (1)
+MATH241,3,Mathematics,3,2,10,Linear Algebra (1)
+MATH332,3,Mathematics,3,4,10,Numerical Analysis (1) (for IT Students)
+STAT111,3,Probability,3,2,11,Introduction to Probability (1)
+STAT101,3,Statistics,2,5,11,Introduction to Statistics (1)
+BA101,3,Management,3,2,12,Management Principles
+HUM117,1,University,2,5,0,Pioneering and Creativity
+HUM118,1,University,2,5,0,Leadership and Society
+HUM119,1,University,2,5,0,Life Skills
+HUM120,3,University,2,5,0,Communication Skills (English Language)
+HUM121,3,University,2,5,0,Communicaation Skills (Arabic Language)
+PS102,3,University,2,5,0,Civil Education
+MILT100A,3,University,2,5,0,Military Sciences and Citizenship
